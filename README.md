@@ -1,0 +1,2 @@
+# HIP
+Hovgaard-IoT-Platform
